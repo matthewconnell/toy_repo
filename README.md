@@ -2,4 +2,4 @@
 
 ### Different text
 
-#### newline
+#### new line
